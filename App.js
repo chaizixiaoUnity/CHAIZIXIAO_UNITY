@@ -16,10 +16,8 @@ export default function App() {
 
      <Stack.Screen name="LoginPage"
      component={LoginPage}/>
-
     <Stack.Screen name="MainPage"
      component={MainPage}/>
-
     <Stack.Screen name="NoticeDetail"
      component={NoticeDetail}/>
      
